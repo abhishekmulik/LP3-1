@@ -1,4 +1,4 @@
-"""
+
 def fib(n):
     if n==0:
         return 0
@@ -11,7 +11,7 @@ n=int(input("Enter the end : "))
 
 for i in range(n):
     print(fib(i))
-"""
+
 
 """
 def fibo(n):
